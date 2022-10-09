@@ -1,5 +1,5 @@
 """
-Project 2
+PyWinTasks
 October 19 2021
 by Zac Fawcett
 
