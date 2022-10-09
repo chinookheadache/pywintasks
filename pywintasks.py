@@ -25,7 +25,7 @@ This code only has full functionality if run from a command line with administra
 The command line needs to be reading from the same directory that the file is housed in.
 So if the file is at C:\\ then the command line needs to change directories to C:\\
 If ran from the python editor certain features will not work:
-    1. The output file will not be created as its path requires admin priveleges
+    1. The output file will not be created as its path requires admin privileges
     2. Groups cannot be created
     3. Users cannot be added to groups
     4. The log file will not be written to
