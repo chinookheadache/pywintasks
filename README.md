@@ -20,14 +20,22 @@ So if the file is at C:\\ then the command line needs to change directories to C
 
 If ran from the python editor certain features will not work:
 
-   The output file will not be created as its path requires admin priveleges
-   Groups cannot be created
-   Users cannot be added to groups
-   The log file will not be written to
+   a. The output file will not be created as its path requires admin priveleges
    
+   b. Groups cannot be created
+   
+   c. Users cannot be added to groups
+   
+   d. The log file will not be written to
+   
+   
+
 If not in elevated cmd line all other features will still work
 
-Menu Options
+
+
+
+   Menu Options
 
 **************************************************
 
